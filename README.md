@@ -25,7 +25,7 @@ I am a dedicated data analyst from Morocco, currently transitioning towards a ca
 ### **Infrastructure:**
 - **Database Management:** Experienced with MySQL and PostgreSQL for handling large datasets.
 
-## 🎯 2023 Goals
+## 🎯 2024 Goals
 
 - **Deepen Data Analysis Skills:** Enhancing proficiency in Python and SQL.
 - **Advance Visualization Techniques:** Creating more complex reports and dashboards in Power BI.
