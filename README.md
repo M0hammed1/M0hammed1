@@ -1,30 +1,38 @@
-🚀 About Me
-👋 Hi, I'm Mohammed Amine!
+# 👋 Hello, I'm Mohammed Amine!
 
-🌍 Based in Morocco, I am currently embracing a significant shift towards a career in data analytics. I'm leveraging my background in technology to master tools like Power BI, Python, SQL, and VBA.
+I am a dedicated data analyst from Morocco, currently transitioning towards a career in data analytics. I leverage tools like Power BI, Python, SQL, and VBA to enhance data-driven decision-making.
 
-🔭 I'm on a journey to decode the vast seas of data, making daily progress. Each step I take is aimed at enhancing my analytical skills, with the ultimate goal of becoming a data analytics expert.
+🚀 **Join me as I explore the vast potential of data and share my journey along the way!**
 
-💼 Career Transition
-Transitioning into data analysis, I am focused on:
+## 🛠 Skills and Technologies
 
-Power BI - Harnessing data visualization to drive decision-making.
-Python - Automating and processing large datasets.
-SQL - Managing and querying databases effectively.
-VBA - Automating repetitive tasks in Excel to improve efficiency.
-Soft Skills - Enhancing communication, problem-solving, and project management abilities.
-🌱 Learning Progress
-I am at the initial stages of my learning journey:
+### **Programming Languages:**
+- **Python** 🐍 - For data manipulation and analysis.
+- **SQL** 🗄️ - For database management.
+- **Power BI** 📊 - For advanced data visualizations.
+- **VBA** ⚙️ - For automating tasks in Excel.
 
-Power BI, Python, SQL, VBA, Soft Skills 🚀 [🔜🌟 1% Launched]
-🥅 2023 Goals
-Master foundational data analysis techniques using Python and SQL.
-Develop advanced Power BI dashboards for business insights.
-Automate data processes with VBA to increase efficiency.
-Enhance my professional network by connecting with data professionals and participating in community projects.
-✨ Quick Facts
-I thrive on challenges and love to solve problems.
-Passionate about learning new technologies and applying them to real-world scenarios.
-Committed to personal and professional growth through continuous learning.
-📫 How to Reach Me
-Feel free to connect with me on LinkedIn or follow my GitHub projects to see my progress and journey in the world of data analytics.
+### **Data Analytics & Visualization:**
+- **Data Manipulation:** Using Python libraries like Pandas and NumPy.
+- **Data Visualization:** Proficient in Power BI and Tableau for creating insightful dashboards.
+
+### **Machine Learning & Data Science:**
+- **Learning Frameworks:** Currently learning basics of TensorFlow and Scikit-Learn for predictive modeling.
+
+### **Web & API:**
+- **Basics:** Understanding of how to consume and integrate RESTful APIs.
+
+### **Infrastructure:**
+- **Database Management:** Experienced with MySQL and PostgreSQL for handling large datasets.
+
+## 🎯 2023 Goals
+
+- **Deepen Data Analysis Skills:** Enhancing proficiency in Python and SQL.
+- **Advance Visualization Techniques:** Creating more complex reports and dashboards in Power BI.
+- **Automation Efficiency:** Streamlining processes using VBA in Excel.
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** www.linkedin.com/in/mohammedaminemrani
+- **GitHub:** Follow my GitHub projects to see my progress and new initiatives in real-time.
+
