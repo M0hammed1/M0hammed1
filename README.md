@@ -35,4 +35,5 @@ I am a dedicated data analyst from Morocco, currently transitioning towards a ca
 
 - **LinkedIn:** www.linkedin.com/in/mohammedaminemrani
 - **GitHub:** Follow my GitHub projects to see my progress and new initiatives in real-time.
+- **Projects:** https://drive.google.com/drive/folders/1ZcVEXgl-EQU2ipLyvtNMf8S7J5Scad8T?usp=sharing
 
